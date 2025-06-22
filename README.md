@@ -25,3 +25,15 @@ This tool can be practically applied in scenarios where performance matters — 
 The primary goal here was not to build the most space-efficient compressor, but to show how C++'s multithreading can significantly improve processing time in compute-heavy I/O tasks. Testing it on large files clearly demonstrated that running the tool with 4 or 8 threads can nearly halve the processing time compared to a single-threaded version.
 
 In conclusion, this project served as a great hands-on exercise in parallel programming, file handling, and performance tuning in C++. It’s an excellent demonstration of how multithreading can optimize simple algorithms, and how a minimal tool can still be powerful when designed properly with efficiency and modularity in mind.
+
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/6759b160-c7d7-4e88-bbda-0fec6d56fc82)
+
+![Image](https://github.com/user-attachments/assets/d265e164-1202-4d29-a571-7367b7667a4f)
+
+![Image](https://github.com/user-attachments/assets/7f39b9e2-fdea-40f8-b82e-456d3d5a3f99)
+
+![Image](https://github.com/user-attachments/assets/061f8e0b-7a51-45d2-af17-9929d534bf68)
+
+![Image](https://github.com/user-attachments/assets/d206b64c-8ab5-45ab-a5f4-6bd340879cbc)
